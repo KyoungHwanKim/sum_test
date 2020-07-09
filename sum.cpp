@@ -1,4 +1,4 @@
-#include "sum.h" //커런트에 있을 경우에는 쌍따옴표
+#include "sum.h"
 
 int sum(int n) {
 	int s = 0;
